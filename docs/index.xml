@@ -2,7 +2,7 @@
     <channel>
         <title>N1ptune&#39;s blog</title>
         <link>https://n1ptune.github.io/</link>
-        <description>Welcome to my blog</description>
+        <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
             <atom:link href="https://n1ptune.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
